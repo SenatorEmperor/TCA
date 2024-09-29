@@ -1,5 +1,6 @@
 This is a Terminal-Chat-Application (TCA) by [firex]. 
 Read instructions both for client and server, written below.
+Don't forget to allow firewall.
 **************************************************************************************************************************
 ==> Instructions for client: 
   ALL THE INFORMATION BELOW SHOULD BE RECIEVED BY THE PERSON WHO STARTS SERVER 
