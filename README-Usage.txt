@@ -1,4 +1,4 @@
-This is an End-to-End Terminal-Chat-Application (TCA) by [firex]. 
+This is an End-to-End encrypted Terminal-Chat-Application (TCA) by [firex]. 
 Read instructions both for client and server, written below.
 Don't forget to allow firewall.
 **************************************************************************************************************************
