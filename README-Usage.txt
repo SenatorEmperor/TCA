@@ -12,6 +12,7 @@ Don't forget to allow firewall.
   [*] Note that if you want to communicate through the internet you should enter the [ngrok] link that server sent you [*]
 **************************************************************************************************************************
 ==> Instructions for server:
+  DON'T FORGET TO SEND NECCESSARY INFORMATION SUCH AS PORT AND NGROK LINK (if needed) TO CLIENT
   Port: (example: 1234)
   Key: (example: abc)
   Username: (example: User2)
