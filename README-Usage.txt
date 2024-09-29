@@ -18,6 +18,6 @@ Don't forget to allow firewall.
   Username: (example: User2)
   [*] Note that if you want to communicate through the internet you should have ngrok installed [*]
   Command to run in CMD(example): "ngrok tcp 1234"
-  Example ngrok link(example): tcp://4.tcp.eu.ngrok.io:16533
+  Ngrok link(example): tcp://4.tcp.eu.ngrok.io:16533
   Link to send to client(example): 4.tcp.eu.ngrok.io
   Port to send to client(example): 16533
