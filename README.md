@@ -1,6 +1,6 @@
-# Terminal Chat Application (TCA) by [firex]
+# Terminal Chat Application (TCA) by [Ramazan Kamilov]
 
-This is an End-to-End encrypted Terminal-Chat-Application (TCA) by [firex]. 
+This is an End-to-End encrypted Terminal-Chat-Application (TCA) by [Ramazan Kamilov]. 
 Read instructions both for client and server, written below.
 Don't forget to allow firewall.
 
@@ -14,8 +14,8 @@ ALL THE INFORMATION BELOW SHOULD BE RECEIVED BY THE PERSON WHO STARTS SERVER
 - Username: (example: User1)  
 - IP Address / ngrok link: (example: 192.168.0.111 / 4.tcp.eu.ngrok.io)  
 
-[*] Note that if you want to communicate in your local network, you should enter server's IP address  
-[*] Note that if you want to communicate through the internet you should enter the [ngrok] link that server sent you  
+**->**Note that if you want to communicate in your local network, you should enter server's IP address  
+**->**Note that if you want to communicate through the internet you should enter the [ngrok] link that server sent you  
 
 ---
 
@@ -26,7 +26,7 @@ DON'T FORGET TO SEND NECESSARY INFORMATION SUCH AS PORT AND NGROK LINK (if neede
 - Key: (example: abc)  
 - Username: (example: User2)  
 
-[*] Note that if you want to communicate through the internet you should have ngrok installed  
+**->**Note that if you want to communicate through the internet you should have ngrok installed  
 Command to run in CMD (example): "ngrok tcp 1234"  
 Ngrok link (example): tcp://4.tcp.eu.ngrok.io:16533  
 Link to send to client (example): 4.tcp.eu.ngrok.io  
